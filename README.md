@@ -1,6 +1,6 @@
-# Muhammad Hanzala
+## Hey there, I'm  Hanzala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-👋 Hi there! I'm Muhammad Hanzala, a high school student at Fazaia Inter College with a deep passion for software engineering and artificial intelligence. I am enthusiastic about learning and exploring the world of technology.
+🎓 A high school student at Fazaia Inter College with a deep passion for software engineering and artificial intelligence. I am enthusiastic about learning and exploring the world of technology.
 
 🚀 My educational journey includes courses like CS50x, an introduction to programming with Python by Harvard, Linux fundamentals from FreeCodeCamp, and version control with Git and GitHub by Google. These experiences have ignited my curiosity and fueled my determination to delve deeper into the world of technology.
 
