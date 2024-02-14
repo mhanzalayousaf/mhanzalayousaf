@@ -19,8 +19,9 @@ I'm a high school student with a passion for software engineering and artificial
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&theme=radical&count_private=true" alt="Muhammad Hanzala's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&theme=radical&count_private=true&include_all_commits=false" alt="Muhammad Hanzala's GitHub Stats" />
 </div>
+
 
 ## Most Used Languages
 
