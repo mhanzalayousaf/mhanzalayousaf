@@ -19,19 +19,19 @@ I'm a high school student with a passion for software engineering and artificial
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&locale=en&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&locale=en&hide=contribs&theme=dark" alt="GitHub Stats" />
 </div>
 
 ## GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhanzalayousaf" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhanzalayousaf&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ## Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhanzalayousaf&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhanzalayousaf&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 
