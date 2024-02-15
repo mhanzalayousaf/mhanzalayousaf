@@ -19,7 +19,7 @@ I'm a high school student with a passion for software engineering and artificial
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&locale=en&hide=contribs&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&locale=en&hide=contribs,issues&theme=dark" alt="GitHub Stats" />
 </div>
 
 ## GitHub Streak Stats
