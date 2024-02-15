@@ -19,7 +19,13 @@ I'm a high school student with a passion for software engineering and artificial
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="Muhammad Hanzala's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhanzalayousaf&show_icons=true&locale=en&hide=contribs" alt="GitHub Stats" />
+</div>
+
+## GitHub Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhanzalayousaf" alt="GitHub Streak Stats" />
 </div>
 
 ## Most Used Languages
@@ -27,6 +33,7 @@ I'm a high school student with a passion for software engineering and artificial
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhanzalayousaf&layout=compact" alt="Top Languages" />
 </div>
+
 
 <!---
 mhanzalayousaf/mhanzalayousaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
