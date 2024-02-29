@@ -11,11 +11,13 @@ I'm a high school student with a passion for software engineering and artificial
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-SQL-2C8EBB?style=for-the-badge&logo=sql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-SQL-2C8EBB?style=flat-square&logo=sql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-DSA-000000?style=flat-square" height="30" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" />
 </div>
+
 
 ## GitHub Stats
 
