@@ -5,18 +5,20 @@ I'm a high school student with a passion for software engineering and artificial
 - 🚀 Currently expanding my Prgramming Skills.
 - 💻 Exploring Object-Oriented Programming and Data Structures.
 - 🌟 Open to collaborations and new opportunities.
-
 ## Skills & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-DSA-000000?style=flat-square" height="30" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-SQL-2C8EBB?style=for-the-badge&logo=sql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-DSA-000000?style=for-the-badge" height="30" />
 </div>
-
 
 ## GitHub Stats
 
