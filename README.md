@@ -5,6 +5,7 @@ I'm a high school student with a passion for software engineering and artificial
 - 🚀 Currently expanding my Prgramming Skills.
 - 💻 Exploring Object-Oriented Programming and Data Structures.
 - 🌟 Open to collaborations and new opportunities.
+
 ## Skills & Tools
 
 <div align="center">
